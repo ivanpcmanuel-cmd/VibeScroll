@@ -1,0 +1,5 @@
+{
+  "name": "VibeScroll - Local TikTok Clone",
+  "description": "A high-performance, TikTok-style vertical video feed for your local gallery videos. Features smooth scrolling, auto-play, and native-like interactions.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
